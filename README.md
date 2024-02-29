@@ -3,10 +3,10 @@
 General GLSL fragment shader compiled with glslViewer where you can input multiple types of image files
 
 ## Usage
-To compile:
+    To compile:
     glslViewer crt.frag your_image.png
 
-To compile with custom size:
+    To compile with custom size:
     glslViewer crt.frag your_image.png -w 1000, -h 1000
 
 
