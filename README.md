@@ -1,10 +1,18 @@
 # glslViewer-CRT
 
-General GLSL fragment shader used with glslViewer
+General GLSL fragment shader compiled with glslViewer where you can input multiple types of image files
 
-## Usage:
-    glslViewer crt.frag example.png
+## Usage
+To compile:
+    glslViewer crt.frag your_image.png
 
-## Examples:
+To compile with custom size:
+    glslViewer crt.frag your_image.png -w 1000, -h 1000
 
-    
+
+## Examples
+Example 1
+![screenshot_ims](/Screenshot/comparison1.png)
+Example 2
+![screenshot_ims](/Screenshot/comparison2.png)
+
