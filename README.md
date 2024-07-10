@@ -1,4 +1,4 @@
-# glslViewer-CRT
+# GLSL-Viewer-CRT
 
 General GLSL fragment shader compiled with glslViewer where you can input multiple types of image files or object types to apply CRT effect.
 
